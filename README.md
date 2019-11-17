@@ -1,6 +1,6 @@
 # Install
 
-`Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/harmonwood/windows-minikube-installer/master/install.ps1'))`
+`Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/harmonwood/windows-minikube-installer/master/installer.ps1'))`
 
 Re-run this command everytime it reboots until it tells you it has completed.
 
